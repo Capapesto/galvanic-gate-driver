@@ -2,7 +2,7 @@
 
 Optocoupled gate driver for a Formula SAE power-switching stage, built around a Toshiba TLP250 driving an Infineon IRF3205 MOSFET, with the control electronics kept galvanically isolated from the 12V power stage.
 
-![3D render](hardware/3d-renders/board-3d-render.png)
+![3D render](hardware/3d-renders/galvanic-gate-driver-3dpcbA.png)
 
 _Schematic and PCB layout exports are in `hardware/schematic/` and `hardware/pcb/`._
 
